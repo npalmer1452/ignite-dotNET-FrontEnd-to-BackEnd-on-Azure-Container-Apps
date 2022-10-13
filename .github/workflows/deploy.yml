@@ -8,10 +8,10 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: palmer-ignite-2022
+  RESOURCE_GROUP_NAME: palmer-ignite-2022-2
 
   # specify your preferred region
-  REGION: westus
+  REGION: australiaeast
 
 jobs:
   build:
